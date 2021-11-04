@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/miAll"
+        android:title="All"
+        android:icon="@drawable/ic_all"/>
+    <item
+        android:id="@+id/miRegular"
+        android:title="Regular"
+        android:icon="@drawable/ic_regular"/>
+    <item
+        android:id="@+id/miImportant"
+        android:title="Important"
+        android:icon="@drawable/ic_important"/>
+    <item
+        android:id="@+id/miMinor"
+        android:title="Minor"
+        android:icon="@drawable/ic_minor"/>
+</menu>
