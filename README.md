@@ -1,2 +1,2 @@
 # AndroidDevelopment
-Homeworks for the Android Development courses
+Homeworks for the Android Development course.
